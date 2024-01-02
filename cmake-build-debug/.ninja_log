@@ -1,0 +1,22 @@
+# ninja log v5
+5	1537	7253039172280320	CMakeFiles/ImageExtensionDetector.dir/main.cpp.obj	4c98e4507904e3bd
+1537	1717	7253039173970312	ImageExtensionDetector.exe	13519bac8eab2fa6
+0	838	7253039183990494	build.ninja	1a65397b9b69e25e
+3	1714	7253039378522059	CMakeFiles/ImageExtensionDetector.dir/main.cpp.obj	4c98e4507904e3bd
+1714	1884	7253039380182069	ImageExtensionDetector.exe	13519bac8eab2fa6
+4	1881	7253041500955555	CMakeFiles/ImageExtensionDetector.dir/main.cpp.obj	4c98e4507904e3bd
+1882	2329	7253041505335589	ImageExtensionDetector.exe	13519bac8eab2fa6
+4	1224	7253042424189649	CMakeFiles/ImageExtensionDetector.dir/main.cpp.obj	4c98e4507904e3bd
+1224	1431	7253042426205472	ImageExtensionDetector.exe	13519bac8eab2fa6
+3	1960	7253045462345204	CMakeFiles/ImageExtensionDetector.dir/main.cpp.obj	4c98e4507904e3bd
+1961	2395	7253045467756076	ImageExtensionDetector.exe	13519bac8eab2fa6
+5	3160	7253048871144879	CMakeFiles/ImageExtensionDetector.dir/main.cpp.obj	4c98e4507904e3bd
+3161	3553	7253048875034280	ImageExtensionDetector.exe	13519bac8eab2fa6
+4	1149	7253049154294412	CMakeFiles/ImageExtensionDetector.dir/main.cpp.obj	4c98e4507904e3bd
+1149	1276	7253049155534408	ImageExtensionDetector.exe	13519bac8eab2fa6
+4	1923	7253049412504915	CMakeFiles/ImageExtensionDetector.dir/main.cpp.obj	4c98e4507904e3bd
+1923	2471	7253049417919491	ImageExtensionDetector.exe	13519bac8eab2fa6
+4	2687	7253253427874725	CMakeFiles/ImageExtensionDetector.dir/main.cpp.obj	4c98e4507904e3bd
+2687	3556	7253253436660248	ImageExtensionDetector.exe	13519bac8eab2fa6
+5	1434	7253258880438656	CMakeFiles/ImageExtensionDetector.dir/main.cpp.obj	4c98e4507904e3bd
+1434	1730	7253258883388630	ImageExtensionDetector.exe	13519bac8eab2fa6
